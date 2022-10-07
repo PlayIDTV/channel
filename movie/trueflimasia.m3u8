@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1140
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000000,
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/115412.ts
+#EXTINF:10.000000,
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/115412.ts
+#EXTINF:10.000000,
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/115412.ts
+#EXTINF:10.000000,
+http://iptvworld.nl:2095/live/nlinenodric/4sR2SwYYeg/115412.ts
