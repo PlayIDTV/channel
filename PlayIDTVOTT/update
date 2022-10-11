@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.11.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="playidtvupdate">
+    <display-name lang="en">PlayIDTVOTT</display-name>
+    <url>http://www.gigatv.3bb.co.th</url>
+  </channel>
+  <programme start="20221010200000 +0700" stop="20221010203000 +0700" channel="PlayIDTVOTT">
+    <title lang="en">ลิงค์อัพเดทล่าสุด11</title>
+    <desc lang="en">สอบถามข้อมูลเพิ่มเติม ไลน์ PlayIDTV</desc>
+  </programme>
